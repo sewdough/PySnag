@@ -48,7 +48,7 @@ The application uses multiple threads (via QThread) for tasks like video downloa
 + Contextual Menus: Dynamic context menus provide immediate feedback on whether a file will be upscaled or converted without scaling, enhancing user interaction.
 
 
-#Changelog  v0.3a
+# Changelog  v0.3a
 - Added support for both YouTube and Shorts downloading.
 - Integrated video conversion with intelligent scaling and stream copy.
 - Context menu updates to indicate whether upscaling is needed.
