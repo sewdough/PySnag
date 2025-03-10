@@ -1,7 +1,7 @@
 # PySnag
 **A Python based YT Downloader / Converter (and general media converter)**
 
-![alt text](https://i.imgur.com/5DlXI9f.png)
+![alt text](https://i.imgur.com/xynBoPP.png)
 
 This supports video formats like **MP4**, **AVI**, **MKV**, **WEBM**, and **MOV**, and audio formats such as **MP3**, **WAV**, **AIFF**, and **FLAC**. It offers conversion options for various resolutions (**1080p**, **2K**, **4K**) and intelligently chooses between stream copying or re-encoding with high-quality scaling (using the **Lanczos filter**) to preserve quality, even upscaling when needed.
 
